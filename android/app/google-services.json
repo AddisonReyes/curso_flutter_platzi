@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "336727357530",
+    "project_id": "platzitripsflutter-4cf63",
+    "storage_bucket": "platzitripsflutter-4cf63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336727357530:android:1704cbf9f1138130a28063",
+        "android_client_info": {
+          "package_name": "com.example.curso_flutter_platzi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336727357530-ltfhb7kj8trsdglmq1ie6flemc73clv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.curso_flutter_platzi",
+            "certificate_hash": "1a142b6401321fde75393ca040999368769d7ec0"
+          }
+        },
+        {
+          "client_id": "336727357530-6ipncmiorcbr44ft57l1g1h2j0k530dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Yzr-DptOk3nl7V-I8xtY5-NyuPrmX1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336727357530-6ipncmiorcbr44ft57l1g1h2j0k530dt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "336727357530-0534u9f3tg8ua97lsool3vfhv5jpi2ne.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cursoFlutterPlatzi.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
